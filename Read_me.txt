@@ -11,4 +11,4 @@ Then  add it!
 
 Logon to https://freedns.afraid.org/subdomain/
 Google your public IP
-Edit newupdate.twilightparadox.com	to your public IP and then save it
+Redirect free dns domain to your public IP
